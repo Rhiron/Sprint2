@@ -1,0 +1,30 @@
+Web Design - JavaScript FINAL SPRINT
+
+Overview: Given this course sections introductory focus on the JavaScript syntax this final sprint module will be exercising the basics of JavaScript. In this sprint you will create a JSON file, read the file, and then write a few functions to display the contents of the file to the browsers console. The JavaScript final project will be done individually.
+For a sample solution visit the following GitHub repository and review the code. DO NOT copy this code but use it as reference. prawstho/IntroToWebDevSprint (github.com)
+
+JavaScript Project:
+The project is focused on creating, reading, and displaying a JSON file you create yourself. The JSON file should contain a variety of data types.  The display of the data in the JSON file should be done using functions within a .js file referenced from a html file. The project could be built using the following steps. Don’t hesitate to use your own approach to developing this project if you like, please make sure you are doing this work yourself. It is ok to ask for help from your classmates, friends, teaching assistants, or lecturer.
+
+Step 1: Create the html and JavaScript files in the visual studio environment. Link the html file to the JavaScript file using the html <SCRIPT> tag. Test this works and you are displaying information in the script file to the browser console using the console.log() statement.
+
+Step 2: Create a simple JSON file with more than five records in the file.
+
+Step 3: Read the file using the Fetch API available in JavaScript.
+
+Step 4: Using a forEach() loop iterate over all the records available from the JSON file and display one of the key-value pairs of data to test that your reading of the JSON file is working.
+
+Step 5: write three functions to return strings of data describing the contents of the JSON file.
+Write the results of reading the JSON file to the browser window as HTML. The JSON data should also be written to the browser console.
+ 
+Learning Outcomes:
+    Proven ability to create a simple JSON file.
+    Proven ability to create and read a JavaScript file from an HTML page.
+    Proven ability to set up a hosting HTML page which executes an embedded <SCRIPT> file.
+    Proven ability to read a JSON file from disk and display its contents.
+    Proven ability to iterate over the records in a JSON file to the console.log.
+    Proven ability to write simple JavaScript functions that format and emit record contents read from a JSON file.
+
+Project Deliverables:
+    Upload all the project files to your personal GitHub repository.
+    Submit the GitHub URL to the assignment portal for marking
