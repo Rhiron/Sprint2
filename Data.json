@@ -1,0 +1,10 @@
+[
+    {"id": 1, "Name": "Alice", "Age": 30, "Fav_Food":"Pizza"},
+    {"id": 2, "Name": "Bob", "Age": 25, "Fav_Food":"Scallops"},
+    {"id": 3, "Name": "Charlie", "Age": 35, "Fav_Food":"Chocolate Cake"},
+    {"id": 4, "Name": "Diana", "Age": 28, "Fav_Food":"Chicken Nuggets"},
+    {"id": 5, "Name": "Kyle", "Age": 22, "Fav_Food":"Cabbage Rolls"},
+    {"id": 6, "Name": "Ben", "Age": 27, "Fav_Food":"Everything Bagel"},
+    {"id": 7, "Name": "Stephanie", "Age": 20, "Fav_Food":"Spaghetti"},
+    {"id": 8, "Name": "Alexis", "Age": 31, "Fav_Food":"Cinnamon Roll"}
+]
